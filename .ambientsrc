@@ -1,0 +1,11 @@
+{
+	"name": "@lincode/tour",
+	"strict": true,
+	"esnext": true,
+	"es2015": false,
+	"es5": false,
+	"library": true,
+	"node": false,
+	"jsx": true,
+	"css": true
+}

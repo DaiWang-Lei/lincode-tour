@@ -1,0 +1,9 @@
+.stylefix {
+    position: relative;
+    box-sizing: border-box;
+}
+
+.stylefix * {
+    position: relative;
+    box-sizing: border-box;
+}
